@@ -1,0 +1,11 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class TopicComment extends Model
+{
+    //
+    protected $guarded = [];
+}
